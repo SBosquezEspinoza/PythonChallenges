@@ -14,5 +14,5 @@ def solution(A):
 
 
 
-A = [4,1,3,2,5,6,7,8,10]
+A = [4,5,6]
 print(solution(A))
